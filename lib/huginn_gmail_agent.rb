@@ -1,0 +1,1 @@
+HuginnAgent.register '../huginn_gmail_agent'
